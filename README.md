@@ -30,6 +30,10 @@ This project is a carrier-board design. It is **not** an attempt to design the R
 
 Only mark an item complete when the corresponding work has actually been reviewed.
 
+## Technical documentation
+
+- [Architecture and decision log](docs/architecture-and-decisions.md)
+
 ## Important design decisions still to make
 
 - Power input method, protection, and current budget
