@@ -58,3 +58,7 @@ A clean ERC or DRC report does not prove that a board is electrically safe or wi
 
 ---
 *Personal learning and hardware-design project by MrNullbyte01.*
+
+## Archived Front Panel reference
+
+The earlier Front Panel PCB has been preserved separately under [`archive/front-panel-reference/`](archive/front-panel-reference/README.md). Its KiCad files and board image are historical reference material only; they are **not** the new Raspberry Pi Zero 2 W carrier-board design and do not validate the current motherboard.
