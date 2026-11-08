@@ -2,7 +2,7 @@
 
 A custom carrier/motherboard PCB project designed around the **Raspberry Pi Zero 2 W**, using **KiCad 10**.
 
-> **Status:** Design in progress. The PCB has not been fabricated or assembled.
+> **Status:** Planning / design in progress. This repository currently contains project documentation and the archived Front Panel reference only; the active Raspberry Pi Zero 2 W carrier-board schematic and PCB files have not yet been published here. The board has not been fabricated or assembled.
 
 ## Project goal
 
@@ -22,7 +22,8 @@ This project is a carrier-board design. It is **not** an attempt to design the R
 - [ ] Functional block diagram and requirements
 - [ ] Power architecture and protection decisions
 - [ ] GPIO and connector mapping
-- [ ] Schematic capture
+- [ ] Publish the active carrier-board KiCad project files
+- [ ] Schematic capture and electrical review
 - [ ] PCB placement and routing
 - [ ] ERC and DRC review
 - [ ] BOM and fabrication files
